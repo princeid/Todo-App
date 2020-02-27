@@ -1,7 +1,7 @@
 const todoData = [
     {
         id : 1,
-        task : "Take out the Trash",
+        task : "Do Laundry",
         completed : true
     },
     {
