@@ -6,22 +6,22 @@ const todoData = [
     },
     {
         id : 2,
-        task : "Finish React Beginners Course on Scrimba",
+        task : "Finish React Bootcamp (Deep Dive) Course on Scrimba",
         completed : false
     },
     {
         id : 3,
-        task : "Buy a Car for Higher Purchase",
+        task : "Apply to DevCareers Cohort 2",
         completed : false
     },
     {
         id : 4,
-        task : "Go for DevCareers Interview",
+        task : "Apply for NTU Scholarship",
         completed : true
     },
     {
         id : 5,
-        task : "Get a well paid job in Backend Development",
+        task : "Get a well paid job as a fullstack software developer",
         completed : false
     }
 ]
